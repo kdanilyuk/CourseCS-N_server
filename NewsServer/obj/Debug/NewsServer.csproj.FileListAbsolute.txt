@@ -1,0 +1,33 @@
+D:\Study\4sem\КСиС\Курсовая\NewsServer\NewsServer\obj\Debug\NewsServer.csprojAssemblyReference.cache
+D:\Study\4sem\КСиС\Курсовая\NewsServer\NewsServer\obj\Debug\NewsServer.MainWindow.resources
+D:\Study\4sem\КСиС\Курсовая\NewsServer\NewsServer\obj\Debug\NewsServer.Properties.Resources.resources
+D:\Study\4sem\КСиС\Курсовая\NewsServer\NewsServer\obj\Debug\NewsServer.csproj.GenerateResource.cache
+D:\Study\4sem\КСиС\Курсовая\NewsServer\NewsServer\obj\Debug\NewsServer.csproj.CoreCompileInputs.cache
+D:\Study\4sem\КСиС\Курсовая\NewsServer\NewsServer\bin\Debug\NewsServer.exe.config
+D:\Study\4sem\КСиС\Курсовая\NewsServer\NewsServer\bin\Debug\NewsServer.exe
+D:\Study\4sem\КСиС\Курсовая\NewsServer\NewsServer\bin\Debug\NewsServer.pdb
+D:\Study\4sem\КСиС\Курсовая\NewsServer\NewsServer\obj\Debug\NewsServer.exe
+D:\Study\4sem\КСиС\Курсовая\NewsServer\NewsServer\obj\Debug\NewsServer.pdb
+D:\Study\4sem\КСиС\Курсовая\NewsServer\NewsServer\obj\Debug\NewsServer.AppendNews.resources
+D:\Study\4sem\Ксис курач\NewsServer\NewsServer\bin\Debug\NewsServer.exe.config
+D:\Study\4sem\Ксис курач\NewsServer\NewsServer\bin\Debug\NewsServer.exe
+D:\Study\4sem\Ксис курач\NewsServer\NewsServer\bin\Debug\NewsServer.pdb
+D:\Study\4sem\Ксис курач\NewsServer\NewsServer\obj\Debug\NewsServer.csprojAssemblyReference.cache
+D:\Study\4sem\Ксис курач\NewsServer\NewsServer\obj\Debug\NewsServer.AppendNews.resources
+D:\Study\4sem\Ксис курач\NewsServer\NewsServer\obj\Debug\NewsServer.MainWindow.resources
+D:\Study\4sem\Ксис курач\NewsServer\NewsServer\obj\Debug\NewsServer.Properties.Resources.resources
+D:\Study\4sem\Ксис курач\NewsServer\NewsServer\obj\Debug\NewsServer.csproj.GenerateResource.cache
+D:\Study\4sem\Ксис курач\NewsServer\NewsServer\obj\Debug\NewsServer.csproj.CoreCompileInputs.cache
+D:\Study\4sem\Ксис курач\NewsServer\NewsServer\obj\Debug\NewsServer.exe
+D:\Study\4sem\Ксис курач\NewsServer\NewsServer\obj\Debug\NewsServer.pdb
+D:\Study\4sem\КСиС\Ксис курач\NewsServer\NewsServer\bin\Debug\NewsServer.exe.config
+D:\Study\4sem\КСиС\Ксис курач\NewsServer\NewsServer\bin\Debug\NewsServer.exe
+D:\Study\4sem\КСиС\Ксис курач\NewsServer\NewsServer\bin\Debug\NewsServer.pdb
+D:\Study\4sem\КСиС\Ксис курач\NewsServer\NewsServer\obj\Debug\NewsServer.csprojAssemblyReference.cache
+D:\Study\4sem\КСиС\Ксис курач\NewsServer\NewsServer\obj\Debug\NewsServer.AppendNews.resources
+D:\Study\4sem\КСиС\Ксис курач\NewsServer\NewsServer\obj\Debug\NewsServer.MainWindow.resources
+D:\Study\4sem\КСиС\Ксис курач\NewsServer\NewsServer\obj\Debug\NewsServer.Properties.Resources.resources
+D:\Study\4sem\КСиС\Ксис курач\NewsServer\NewsServer\obj\Debug\NewsServer.csproj.GenerateResource.cache
+D:\Study\4sem\КСиС\Ксис курач\NewsServer\NewsServer\obj\Debug\NewsServer.csproj.CoreCompileInputs.cache
+D:\Study\4sem\КСиС\Ксис курач\NewsServer\NewsServer\obj\Debug\NewsServer.exe
+D:\Study\4sem\КСиС\Ксис курач\NewsServer\NewsServer\obj\Debug\NewsServer.pdb
